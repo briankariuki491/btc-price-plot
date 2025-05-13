@@ -11,7 +11,7 @@ This is a simple Python project that fetches historical Bitcoin (BTC-USD) price 
 
 ## 🛠 Requirements
 
-Install the required Python libraries if you haven't already:
+Install the required Python libraries if you haven't alrady:
 
 ```bash
 pip install yfinance matplotlib
